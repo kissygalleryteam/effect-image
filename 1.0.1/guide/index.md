@@ -4,7 +4,7 @@ EffectImage。
 
 ## 初始化组件
 
-  S.use('kg/effect-image/1.0.0/index', function (S, EffectImage) {
+  S.use('kg/effect-image/1.0.2/index', function (S, EffectImage) {
     var effect-image = new EffectImage({
       hook: '.J_KG_Pic_item',
       hookInfo: '.J_KG_Pic_info',

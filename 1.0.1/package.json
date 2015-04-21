@@ -1,6 +1,6 @@
 {
     "name": "effect-image",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "devDependencies": {
         "bufferstreams": "0.0.2",
         "gulp": "^3.8.7",

@@ -1,4 +1,4 @@
-KISSY.add('kg/effect-image/1.0.0/index',["node","base","event","./index.css"],function(S ,require, exports, module) {
+KISSY.add('kg/effect-image/1.0.2/index',["node","base","event","./index.css"],function(S ,require, exports, module) {
  
 var EMPTY = '';
 var $ = require('node').all;

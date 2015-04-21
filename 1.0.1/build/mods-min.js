@@ -1,1 +1,1 @@
-KISSY.config("requires",{"kg/effect-image/1.0.0/index":["node","base","event","./index.css"],"kg/effect-image/1.0.0/lib/main":["node","base","event"]});
+KISSY.config("requires",{"kg/effect-image/1.0.2/index":["node","base","event","./index.css"],"kg/effect-image/1.0.2/lib/main":["node","base","event"]});
